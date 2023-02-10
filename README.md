@@ -1,5 +1,5 @@
-## teleform
-DB less web contact form ,response's were directly sent to telegram via telegrambot
+## teleform 
+Simple web contact form ,response's were directly sent to telegram with telegrambot API
 ### DEMO
 [Click Here](https://teleform.up.railway.app/)
 
